@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JsonDataTable_ReactJS/static/css/main.82470d18.css",
+    "main.js": "/JsonDataTable_ReactJS/static/js/main.cc8dd628.js",
+    "index.html": "/JsonDataTable_ReactJS/index.html",
+    "main.82470d18.css.map": "/JsonDataTable_ReactJS/static/css/main.82470d18.css.map",
+    "main.cc8dd628.js.map": "/JsonDataTable_ReactJS/static/js/main.cc8dd628.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82470d18.css",
+    "static/js/main.cc8dd628.js"
+  ]
+}
